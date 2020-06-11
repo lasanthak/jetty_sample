@@ -13,4 +13,4 @@ Sample queries:
 * http://localhost:8080/lk/echo/sklfjsdljfsdl?foo=bar&a=bb1&f
 
 Contact:
-[Lasantha Kularatne](@lasanthak)
+[Lasantha Kularatne](https://github.com/lasanthak)
